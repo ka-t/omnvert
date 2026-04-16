@@ -8,10 +8,8 @@ I am the creator, maintainer, and sole developer of **[Omnvert.com](https://omnv
 
 ### 🖼️ [Image & 3D Converters](https://omnvert.com/)
 A vast collection of next-generation image formatting and 3D generation tools:
-* **[PNG to STL Converter](https://omnvert.com/):** Instantly turn 2D images, logos, and graphics into 3D printable STL meshes.
-* **[Next-Gen Image Converters](https://omnvert.com/):** High-speed conversion tools including **PNG to AVIF**, WebP, JPG, and more for ultimate web optimization.
-* **[Batch Image Processing](https://omnvert.com/):** Powerful utilities to process, convert, and compress multiple images simultaneously.
-* **[DPI & Print Optimizers](https://omnvert.com/):** Tools designed to adjust image DPI for professional printing standards.
+* **[PNG to STL Converter](https://omnvert.com/tr/tools/png-svg-to-stl):** Instantly turn 2D images, logos, and graphics into 3D printable STL meshes.
+* **[Next-Gen Image Converters](https://omnvert.com/tr/category/image-convert):** High-speed conversion tools including **PNG to AVIF**, WebP, JPG, and more for ultimate web optimization.
 
 ### 🎧 [Audio & Media Processing](https://omnvert.com/en/category/audio)
 Professional-grade audio manipulation tools running directly via web:
