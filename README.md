@@ -26,5 +26,12 @@ Professional-grade audio manipulation tools running directly via web:
 * **Website & Web Tools:** [omnvert.com](https://omnvert.com)
 * **Website :** [gunlukrituel](https://gunlukrituel.com.tr)
 
+# Solar Worth Guide Data & Methodology
+
+This repository documents the assumptions, sample data structure, and calculation methodology used by Solar Worth Guide.
+
+Live calculator: https://solarworthguide.com/
+Methodology: https://solarworthguide.com/methodology
 ---
+
 *Fun fact: I likes fish* 🐟
