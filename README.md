@@ -34,4 +34,60 @@ Live calculator: https://solarworthguide.com/
 Methodology: https://solarworthguide.com/methodology
 ---
 
+# Görüntüleyici – Online Dosya Görüntüleme Araçları
+
+Görüntüleyici, kullanıcıların farklı dosya türlerini tarayıcı üzerinden hızlıca açmasına, kontrol etmesine ve görüntülemesine yardımcı olan ücretsiz bir online araç sitesidir.
+
+Website: https://goruntuleyici.com/
+
+Görüntüleyici üzerinde belge görüntüleme, dosya kontrolü ve farklı formatlara yönelik pratik araçlar sunulmaktadır. Site, özellikle hızlı erişim isteyen kullanıcılar için sade ve kullanımı kolay bir yapı sunar.
+
+## Useful Online Viewer Tools
+
+Visit the website for online file viewer tools:
+
+https://goruntuleyici.com/
+
+## About
+
+Görüntüleyici is focused on simple, fast and browser-based file viewing utilities. It is useful for users looking for practical online viewer tools without installing extra software.
+
+
+# IBAN Aracı – Online IBAN Sorgulama ve Kontrol Araçları
+
+IBAN Aracı, IBAN doğrulama, IBAN formatlama, IBAN maskeleme ve toplu IBAN kontrolü gibi işlemler için hazırlanmış ücretsiz bir online araç sitesidir.
+
+Website: https://ibanaraci.com/
+
+IBAN Aracı, kullanıcıların IBAN numaralarını hızlıca kontrol etmesine, düzenlemesine ve daha okunabilir hale getirmesine yardımcı olur. Site, bireysel kullanıcılar, muhasebe işlemleri ve finansal veri düzenleme ihtiyaçları için pratik araçlar sunar.
+
+## Useful IBAN Tools
+
+Visit the website for online IBAN validation and formatting tools:
+
+https://ibanaraci.com/
+
+## About
+
+IBAN Aracı provides simple browser-based IBAN tools for validation, formatting, masking and bulk control. It is designed for users who need fast and practical IBAN utilities.
+
+# GetBarcodian – Barcode and QR Code Generator Tools
+
+GetBarcodian is an online barcode and QR code tool website. It provides practical tools for generating, reading and managing barcode and QR code workflows.
+
+Website: https://getbarcodian.com/tr
+
+GetBarcodian can be used for QR code generation, barcode creation, barcode reading, bulk barcode workflows and label-related utility tasks. The website is designed for users who need simple and fast online barcode tools.
+
+## Useful Barcode and QR Code Tools
+
+Visit the website for online barcode and QR code tools:
+
+https://getbarcodian.com/tr
+
+## About
+
+GetBarcodian provides browser-based barcode and QR code utilities for everyday business, product, label and document workflows.
+
+
 *Fun fact: I likes fish* 🐟
