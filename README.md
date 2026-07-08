@@ -87,6 +87,9 @@ https://getbarcodian.com/tr
 
 ## About
 
+Related article:
+https://dev.to/kaan_tokali_5a4828a3f897c/practical-barcode-and-qr-code-tools-for-everyday-business-workflows-357i
+
 GetBarcodian provides browser-based barcode and QR code utilities for everyday business, product, label and document workflows.
 
 
