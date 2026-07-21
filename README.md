@@ -85,6 +85,12 @@ Visit the website for online barcode and QR code tools:
 
 https://getbarcodian.com/tr
 
+## Useful test device tool
+
+Visit the website for online test your device:
+
+https://testondevice.com
+
 ## About
 
 Related article:
