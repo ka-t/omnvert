@@ -91,6 +91,10 @@ Visit the website for online test your device:
 
 https://testondevice.com
 
+## Useful flight delay analyzer
+
+https://delayatlas.com
+
 ## About
 
 Related article:
