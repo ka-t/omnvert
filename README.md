@@ -103,4 +103,50 @@ https://dev.to/kaan_tokali_5a4828a3f897c/practical-barcode-and-qr-code-tools-for
 GetBarcodian provides browser-based barcode and QR code utilities for everyday business, product, label and document workflows.
 
 
+## 🌐 Sitelerim / My Sites
+
+Türkiye odaklı araç, hesaplama ve bilgi siteleri ağı. Tamamı [omnifetch.co](https://omnifetch.co) çerezsiz reklam ağına bağlıdır.
+
+### 💰 Finans & Hesaplama
+| Site | Açıklama |
+|---|---|
+| [maasimeridimi.com.tr](https://maasimeridimi.com.tr) | Maaş ve gelir hesaplamaları |
+| [enyuksekfaiz.com](https://enyuksekfaiz.com) | Güncel mevduat faiz oranları |
+| [ibanaraci.com](https://ibanaraci.com) | IBAN araçları |
+| [fiyatdefteri.com](https://fiyatdefteri.com) | Fiyat takibi |
+| [abonelikfiyatlari.com](https://abonelikfiyatlari.com) | Dijital abonelik fiyatları |
+| [petrolfiyatlari.com.tr](https://petrolfiyatlari.com.tr) | Güncel akaryakıt fiyatları |
+
+### 🚗 Trafik & Günlük Hayat
+| Site | Açıklama |
+|---|---|
+| [menzilrehberi.com](https://menzilrehberi.com) | Elektrikli araç menzil rehberi |
+| [dogrukible.com](https://dogrukible.com) | Kıble yönü bulma |
+| [fastkalori.com](https://fastkalori.com) | Kalori hesaplama |
+| [gunlukrituel.com.tr](https://gunlukrituel.com.tr) | Günlük rutin araçları |
+
+### 🛠️ Geliştirici & Teknik Araçlar
+| Site | Açıklama |
+|---|---|
+| [omnvert.com](https://omnvert.com) | 100+ ücretsiz dönüştürme aracı (STL, PDF, görsel...) |
+| [gelistiriciaraclari.com.tr](https://gelistiriciaraclari.com.tr) | Geliştirici araçları |
+| [qraraclari.com.tr](https://qraraclari.com.tr) | QR kod araçları |
+| [goruntuleyici.com](https://goruntuleyici.com) | Dosya görüntüleyici |
+| [blokmerkezi.com.tr](https://blokmerkezi.com.tr) | Blok araçları |
+
+### 📚 Bilgi & İçerik
+| Site | Açıklama |
+|---|---|
+| [secimarsivi.com.tr](https://secimarsivi.com.tr) | Seçim sonuçları arşivi |
+| [gazeteservisi.com](https://gazeteservisi.com) | Gazete manşetleri |
+| [muzegezgini.com.tr](https://muzegezgini.com.tr) | Müze rehberi |
+| [dugundosyam.com.tr](https://dugundosyam.com.tr) | Düğün planlama |
+| [ligdosyam.com.tr](https://ligdosyam.com.tr) | Lig ve futbol takibi |
+| [filizim.com.tr](https://filizim.com.tr) | Bitki bakımı |
+
+### 📢 Ağ
+| Site | Açıklama |
+|---|---|
+| [omnifetch.co](https://omnifetch.co) | Türkiye'nin çerezsiz reklam ağı + ürün keşif platformu |
+
 *Fun fact: I likes fish* 🐟
